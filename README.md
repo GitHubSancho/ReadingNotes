@@ -22,7 +22,7 @@
 ### 经典原著
 |名称|作者|备注|推荐来源|
 |----|----|----|----|
-|利维坦|霍布斯||[Arinor : 每日哲学 #200｜哲学入门应该读什么书？](https://www.bilibili.com/video/BV1h4411v75o)|
+|[利维坦](https://github.com/GitHubSancho/ReadingNotes/raw/01fcaed417fe20c09e1e46daac09da9a64ac054f/Books/%E5%88%A9%E7%BB%B4%E5%9D%A6%20by%20%E9%9C%8D%E5%B8%83%E6%96%AF%20(z-lib.org).epub)|霍布斯|20220116 在读|[Arinor : 每日哲学 #200｜哲学入门应该读什么书？](https://www.bilibili.com/video/BV1h4411v75o)|
 |理想国|柏拉图||[Arinor : 盘点双十一值得买的哲学入门书：入门哲学看这些书就够了](https://www.bilibili.com/video/BV1cr4y1w7ah)|
 |第一哲学沉思集|笛卡尔||[Arinor : 盘点双十一值得买的哲学入门书：入门哲学看这些书就够了](https://www.bilibili.com/video/BV1cr4y1w7ah)|
 |语言、真理与逻辑|艾耶尔||[Arinor : 盘点双十一值得买的哲学入门书：入门哲学看这些书就够了](https://www.bilibili.com/video/BV1cr4y1w7ah)|
