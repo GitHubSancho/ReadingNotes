@@ -1,7 +1,7 @@
 |目录|分类|
 |----|----|
 |[哲学](#1)|[1.入门导论](#1.1) [2.视频课程](#1.2) [3.经典原著](#1.3) [4.休闲读物](#1.4)|
-|[数据学与数据科学](#2)|[1.基础数学](#2.1) [2.应用数学](#2.2) [3.数学科普](#2.3)|
+|[数据学与数据科学](#2)|[1.基础数学](#2.1) [2.应用数学](#2.2) [3.数学科普](#2.3) [4. 软件工程、程序设计理论、算法、数据库](#2.4) [5. 人工智能、大数据](#2.5)|
 
 ## <h2 id="1">[哲学](#)</h2>
 ### <h3 id="1.1">[1.入门导论](#)</h3>
@@ -117,13 +117,43 @@
 |天才引导的历程：数学中的伟大定理|William Dunham||[Alfoil：有没有比较好的学习高等数学，线性代数，概率论数理统计的英文书籍推荐？](https://www.zhihu.com/question/36512716/answer/69017140)|
 |微积分的历程：从牛顿到勒贝格|William Dunham||[Alfoil：有没有比较好的学习高等数学，线性代数，概率论数理统计的英文书籍推荐？](https://www.zhihu.com/question/36512716/answer/69017140)|
 
-### 数据挖掘
+### <h3 id="2.4">[4. 软件工程、程序设计理论、算法、数据库](#)</h3>
+|名称|作者|备注|推荐来源|
+|----|----|----|----|
+|Python cookbook|david beazley、briam K.Jones||[桃花岛主l：如何系统地自学 python？](https://www.zhihu.com/question/29138020/answer/778840509)|
+|流畅的Python|Luciano Ramalho||[桃花岛主l：如何系统地自学 python？](https://www.zhihu.com/question/29138020/answer/778840509)|
+|[HTML5](https://www.bilibili.com/video/av7288645/)|表严肃||[表严肃：HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](https://www.zhihu.com/question/22646257/answer/218186792)|
+|[CSS](https://www.bilibili.com/video/av7293888/)|表严肃||[表严肃：HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](https://www.zhihu.com/question/22646257/answer/218186792)|
+|[玩转Bootstrap](https://www.bilibili.com/video/av10037144/)|表严肃||[表严肃：HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](https://www.zhihu.com/question/22646257/answer/218186792)|
+|[JavaScript](https://www.bilibili.com/video/av8809895/)|表严肃||[表严肃：HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](https://www.zhihu.com/question/22646257/answer/218186792)|
+|[JQuery](https://www.bilibili.com/video/av10974062/)|表严肃||[表严肃：HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](https://www.zhihu.com/question/22646257/answer/218186792)|
+|[Vue](https://www.bilibili.com/video/av13450835/)|表严肃||[表严肃：HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](https://www.zhihu.com/question/22646257/answer/218186792)|
+|[npm](https://www.bilibili.com/video/av13816480/)|表严肃||[表严肃：HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？](https://www.zhihu.com/question/22646257/answer/218186792)|
+|[廖雪峰SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384)|廖雪峰||[朱卫军:最全数据分析资料汇总（含python、爬虫、数据库、大数据、tableau、统计学等）](https://zhuanlan.zhihu.com/p/69869004)|
+|大话数据结构|||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|算法图解|||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|算法导论|||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|数据结构和算法分析C/C++/Java|||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|剑指 offer|||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|编程珠玑|||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|编程之美|||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|LeetCode-Go算法笔记|halfrost||[程序员吴师兄:如何系统地学习数据结构与算法？](https://zhuanlan.zhihu.com/p/137041568)|
+|*numpy&pandas*||||
+|*matplotlib*||||
+|*C/C++*||||
+|*java*||||
+|*kotlin*||||
+|*swift*||||
 
-### 数据分析
+### <h3 id="2.5">[5. 人工智能、大数据](#)</h3>
+|名称|作者|备注|推荐来源|
+|----|----|----|----|
+|[Tableau官方学习平台（含视频、文档）](https://www.tableau.com/zh-cn/learn)|Tableau官方||[朱卫军:最全数据分析资料汇总（含python、爬虫、数据库、大数据、tableau、统计学等）](https://zhuanlan.zhihu.com/p/69869004)|
+*sklearn*
+*tensorFlow*
+*Pytorch*
 
-### 计算机视觉
-
-### 机器学习
+### 计算机安全和密码学
 
 ----
 ## 经济学
