@@ -302,6 +302,7 @@
 |诤语良言:与青年记者谈新闻写作|刘其中|ida推荐：我就是靠着它，从不懂得新闻的人，到通过了许多报社的笔试。|[大军：对你帮助最大的书是什么? ](https://www.zhihu.com/question/333995687/answer/781207189)|
 |蒙面骑士|（墨）马科斯|lynn推荐：号称切格瓦拉的继承人，在丛林里运用公共关系和外部世界斗争，喜欢公关广告和媒体的愤青应该都会喜欢的。|[大军：对你帮助最大的书是什么? ](https://www.zhihu.com/question/333995687/answer/781207189)|
 |一个广告人的自白|大卫·奥格威|shouren258（广告学）推荐|[大军：对你帮助最大的书是什么? ](https://www.zhihu.com/question/333995687/answer/781207189)|
+|[金融时间序列分析讲义](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)|北京大学|课程采用Ruey S. Tsay的《金融数据分析导论：基于R语言》 （An Introduction to Analysis of Financial Data with R）作为主要教材之一|李思恒|
 
 ### 经济史&思想史
 
