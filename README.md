@@ -16,7 +16,7 @@
 |简单的哲学、好用的哲学|朱利安·巴吉尼、彼得·福斯||[Arinor : 盘点双十一值得买的哲学入门书：入门哲学看这些书就够了](https://www.bilibili.com/video/BV1cr4y1w7ah)|
 |直觉泵和其它思考工具|丹尼尔·丹尼特||[Arinor : 盘点双十一值得买的哲学入门书：入门哲学看这些书就够了](https://www.bilibili.com/video/BV1cr4y1w7ah)|
 |分道而行：卡尔纳普、卡希尔和海德格尔|迈克尔·弗里德曼||[Arinor : 双十一图书推荐：四本老少咸宜的哲学书](https://www.bilibili.com/video/BV1b34y1Z7B3)|
-|西方哲学史十五讲|张志伟||[江湖举人：全程干货！5本颠覆你认知的哲学好书！](https://www.bilibili.com/video/BV11r4y1N7mF)|
+|西方哲学史十五讲|张志伟|2022/01/26 在读|[江湖举人：全程干货！5本颠覆你认知的哲学好书！](https://www.bilibili.com/video/BV11r4y1N7mF)|
 |中国哲学十九讲|牟宗三||[江湖举人：全程干货！5本颠覆你认知的哲学好书！](https://www.bilibili.com/video/BV11r4y1N7mF)|
 
 ### <h3 id="1.2">[2.视频课程](#)</h3>
